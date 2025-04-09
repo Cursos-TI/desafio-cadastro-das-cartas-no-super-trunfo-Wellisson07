@@ -85,7 +85,7 @@ int main() {
     printf("Número de pontos turísticos: %d\n", pontosTuristicos);
     printf("Densidade Populacional: %.2f habitantes por km²\n", densidadePopulacional);
     printf("Índice de Desenvolvimento Humano (IDH) simplificado: %.4f\n", idh);
-
+    printf("Novo commit\n");
     
 
     return 0;
