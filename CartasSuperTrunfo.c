@@ -28,6 +28,7 @@ int main() {
 
     printf("Densidade Populacional de Salvador: %.2f habitantes por km²\n", densidade_populacional);
     printf("PIB per Capita de Salvador: %.2f reais por pessoa\n", pib_per_capita);
+    printf("Novo commit\n");
 
     return 0;
 }
